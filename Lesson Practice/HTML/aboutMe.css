@@ -1,0 +1,21 @@
+h1{
+	color: rgb(0,0,0);
+/*	border-color: purple;
+	border-width: 10px;
+	border-style: solid;*/
+
+	border:8px dashed purple;
+}
+li {
+	color: orange;
+}
+h4{
+	background: blue;
+}
+
+body{
+	background: pink
+	/*background: url(https://cdn.shopify.com/s/files/1/0048/1368/4847/products/0daf1af006f009d479292765de2feca9_grande_07185e01-76f0-4d18-9d3f-3eee49ed13f5_grande.png?v=1573142908);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

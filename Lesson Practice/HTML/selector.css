@@ -1,0 +1,31 @@
+
+/*Star - Select everything*/
+*{
+	border: 1px solid lightgrey;
+}
+
+/*Descendent Selector - Nested elements*/ 
+
+li a{
+
+	color: red;
+}
+
+/*Adjacent Selector - Lets you select siblings on the same level of a selector*/
+h4 + ul{
+	border: 4px solid red;
+}
+
+
+/*Attribute Selector*/
+
+a[href="http:/www.google.com"]{
+
+	background: blue;
+}
+
+/*nth of type - selects the nth of a specific element (like every 3rd element)*/
+
+li:nth-of-type(even){
+	border: 10px solid green;
+}

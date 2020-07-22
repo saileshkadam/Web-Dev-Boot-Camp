@@ -1,0 +1,15 @@
+body{
+	color: red;
+}
+
+ul{
+	color: blue;
+}
+
+li{
+	color: orange;
+}
+
+.highlight{
+	background-color: yellow;
+}

@@ -1,0 +1,18 @@
+li{
+	background: orange;
+	border: 2px solid red;
+}
+
+#walk{
+	background: green;
+}
+
+.highlight{
+
+	color:black;
+	text-transform: capitalize;
+}
+
+.completed{
+	text-decoration: line-through;
+}
